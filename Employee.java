@@ -3,9 +3,10 @@ package com.web.RestWebServiceClient;
 
 public class Employee  {
 //Class variable, Member variable , properties of the class
-	public 	int id;
-	private 	double salary;
-	private 	String name;
+	public int id;
+	private double salary;
+	private String name;
+	private String company;
 
 
 	
